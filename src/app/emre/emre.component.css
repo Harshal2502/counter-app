@@ -1,0 +1,15 @@
+.emre {
+    background-color:yellowgreen;
+    padding: 15px;
+    border: 1px solid #444;
+    margin: 10px;
+    transition: all 0.3s;
+  }
+  
+  .emre:hover {
+    scale: 1.1;
+  }
+  
+  button {
+    cursor: pointer;
+  }

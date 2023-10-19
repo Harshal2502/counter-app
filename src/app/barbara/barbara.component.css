@@ -1,0 +1,15 @@
+.barbara {
+    background-color: #b0b0b0;
+    padding: 10px;
+    border: 1px solid #777;
+    margin: 10px;
+    min-width: 20rem;
+  }
+  
+.barbara div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  

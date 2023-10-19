@@ -1,0 +1,15 @@
+.dawn {
+    background-color: chocolate;
+    padding: 15px;
+    border: 1px solid #555;
+    margin: 10px;
+    transition: all 0.3s;
+  }
+
+  .dawn:hover {
+    scale: 1.1;
+  }
+
+  button {
+    cursor: pointer;
+  }
